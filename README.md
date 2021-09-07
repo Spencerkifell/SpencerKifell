@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Spencer</h1>
-<h3 align="center">A computer science student and enthusiast from Canada</h3>
+<h3 align="center">A Computer Science Student and Enthusiast from Canada</h3>
 
 - 🌱 I’m currently learning ASP.NET Core, PostgreSQL & more JavaScript Libraries.
 - 💬 Ask me about .NET Development, Java, JavaScript, C, C++, Python or even Bash.
