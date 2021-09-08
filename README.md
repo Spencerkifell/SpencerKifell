@@ -7,10 +7,6 @@
 - 👯 I’m looking to collaborate on projects for my portfolio.
 - 😄 Pronouns: He/Him
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerKifell&show_icons=true&locale=en&layout=compact&theme=dark" alt="spencerkifell" />
-</div>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
