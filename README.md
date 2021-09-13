@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ASP.NET Core, PostgreSQL & more JavaScript Libraries.
 - 💬 Ask me about .NET Development, Java, JavaScript, C, C++, Python or even Bash.
-- 📫 How to reach me: **Email** @ Spencerkfl@gmail.com || <a href="https://www.linkedin.com/in/spencerkifell/">**LinkedIn**</a>
+- 📫 How to reach me: <a href="mailto: spencerkifell@gmail.com">**Email**</a> || <a href="https://www.linkedin.com/in/spencerkifell/">**LinkedIn**</a>
 - 👯 I’m looking to collaborate on projects for my portfolio.
 - 😄 Pronouns: He/Him
 
