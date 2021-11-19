@@ -6,6 +6,7 @@
 - 📫 How to reach me: <a href="mailto: spencerkifell@gmail.com">**Email**</a> || <a href="https://www.linkedin.com/in/spencerkifell/">**LinkedIn**</a>
 - 👯 I’m looking to collaborate on projects for my portfolio.
 - 😄 Pronouns: He/Him
+- Total Time Coding (Since recently installing Wakatime): [![wakatime](https://wakatime.com/badge/user/d2bec51f-d4b0-4973-aa94-3ded6eaf1fed.svg)](https://wakatime.com/@d2bec51f-d4b0-4973-aa94-3ded6eaf1fed)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
