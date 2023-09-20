@@ -1,9 +1,9 @@
 <h1 align="center">Howdy 👋, I'm Spencer</h1>
-<h3 align="center">Software Developer @ Morgan Stanley</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning Swift, Angular & more JavaScript Libraries.
+- 🌱 I’m currently learning Swift, PySpark and Regression Analysis.
 - 💬 Ask me about .NET Development, Java, JavaScript, C, C++, Python or even Bash.
-- 📫 How to reach me: <a href="mailto: spencerkifell@gmail.com">**Email**</a> || <a href="https://www.linkedin.com/in/spencerkifell/">**LinkedIn**</a>
+- 📫 How to reach me: <a href="mailto: spencerkifell.cs@gmail.com">**Email**</a> || <a href="https://www.linkedin.com/in/spencerkifell/">**LinkedIn**</a>
 - 👯 I’m looking to collaborate on projects for my portfolio.
 - 😄 Pronouns: He/Him
 
