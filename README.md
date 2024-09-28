@@ -43,5 +43,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
   </a> 
 </p>
-
-<a href="https://wakatime.com/@d2bec51f-d4b0-4973-aa94-3ded6eaf1fed"><img src="https://wakatime.com/badge/user/d2bec51f-d4b0-4973-aa94-3ded6eaf1fed.svg" alt="Total time coded since May 11 2021" /></a>
